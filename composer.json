@@ -1,0 +1,14 @@
+{
+    "name": "merakilab/meraki-docker",
+    "description": "Docker for Meraki",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DouDangt",
+            "email": "datpa12192@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
